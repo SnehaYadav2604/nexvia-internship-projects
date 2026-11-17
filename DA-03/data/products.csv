@@ -1,0 +1,21 @@
+product_id,product_name,unit_price,base_daily_demand,supplier_id,reorder_level
+1,Milk,53,24,1,72
+2,Bread,314,19,5,57
+3,Rice,268,13,5,39
+4,Wheat Flour,186,37,3,111
+5,Sugar,184,33,1,99
+6,Tea,346,28,6,84
+7,Coffee,52,20,3,60
+8,Eggs,284,34,6,102
+9,Butter,96,25,5,75
+10,Cooking Oil,55,22,5,66
+11,Soap,220,22,5,66
+12,Shampoo,390,15,2,45
+13,Toothpaste,299,10,3,30
+14,Detergent,309,25,3,75
+15,Biscuits,292,36,3,108
+16,Noodles,318,10,1,30
+17,Juice,215,35,4,105
+18,Salt,68,34,1,102
+19,Lentils,339,16,5,48
+20,Yogurt,191,28,5,84

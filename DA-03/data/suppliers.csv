@@ -1,0 +1,7 @@
+supplier_id,supplier_name,reliability,avg_lead_days
+1,"Choudhury, Bakshi and Maharaj",0.95,2
+2,Kapoor and Sons,0.9,3
+3,"Chaudry, Chahal and Sami",0.85,4
+4,Balan Inc,0.75,5
+5,Kaul PLC,0.6,7
+6,"Bala, Issac and Saini",0.92,3
