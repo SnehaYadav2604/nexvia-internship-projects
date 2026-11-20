@@ -1,0 +1,3 @@
+Forecast accuracy on the last 14 days (100 store-product series)
+Prophet  MAE: 4.43 units/day | WAPE: 14.7%
+Baseline MAE: 5.40 units/day | WAPE: 17.9%
