@@ -1,0 +1,13 @@
+account_id,account_name,account_type,base_budget
+4010,Product Sales,Revenue,9000000
+4020,Services,Revenue,4000000
+4030,Subscriptions,Revenue,3000000
+4040,Other Revenue,Revenue,500000
+5010,Materials,COGS,5000000
+5020,Direct Labour,COGS,3000000
+6010,Salaries,Opex,4500000
+6020,Marketing,Opex,1200000
+6030,Rent,Opex,500000
+6040,Utilities,Opex,200000
+6050,Software,Opex,400000
+6060,Travel,Opex,300000

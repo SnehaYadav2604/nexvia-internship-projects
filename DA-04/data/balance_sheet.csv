@@ -1,0 +1,169 @@
+month,line_item,section,amount
+2024-11-01,Cash,Assets,12909200.0
+2024-11-01,Receivables,Assets,24747000.0
+2024-11-01,Inventory,Assets,7843000.0
+2024-11-01,Fixed Assets,Assets,20000000.0
+2024-11-01,Payables,Liabilities,8998200.0
+2024-11-01,Bank Loan,Liabilities,15000000.0
+2024-11-01,Equity,Equity,41501000.0
+2024-12-01,Cash,Assets,14509700.0
+2024-12-01,Receivables,Assets,24883500.0
+2024-12-01,Inventory,Assets,7834000.0
+2024-12-01,Fixed Assets,Assets,20000000.0
+2024-12-01,Payables,Liabilities,8794200.0
+2024-12-01,Bank Loan,Liabilities,15000000.0
+2024-12-01,Equity,Equity,43433000.0
+2025-01-01,Cash,Assets,15899200.0
+2025-01-01,Receivables,Assets,24918000.0
+2025-01-01,Inventory,Assets,8163000.0
+2025-01-01,Fixed Assets,Assets,20000000.0
+2025-01-01,Payables,Liabilities,9097200.0
+2025-01-01,Bank Loan,Liabilities,15000000.0
+2025-01-01,Equity,Equity,44883000.0
+2025-02-01,Cash,Assets,16920600.0
+2025-02-01,Receivables,Assets,25566000.0
+2025-02-01,Inventory,Assets,8266000.0
+2025-02-01,Fixed Assets,Assets,20000000.0
+2025-02-01,Payables,Liabilities,9261600.0
+2025-02-01,Bank Loan,Liabilities,15000000.0
+2025-02-01,Equity,Equity,46491000.0
+2025-03-01,Cash,Assets,18137300.0
+2025-03-01,Receivables,Assets,25936500.0
+2025-03-01,Inventory,Assets,8391000.0
+2025-03-01,Fixed Assets,Assets,20000000.0
+2025-03-01,Payables,Liabilities,9475800.0
+2025-03-01,Bank Loan,Liabilities,15000000.0
+2025-03-01,Equity,Equity,47989000.0
+2025-04-01,Cash,Assets,19665900.0
+2025-04-01,Receivables,Assets,26002500.0
+2025-04-01,Inventory,Assets,8298000.0
+2025-04-01,Fixed Assets,Assets,20000000.0
+2025-04-01,Payables,Liabilities,9536400.0
+2025-04-01,Bank Loan,Liabilities,15000000.0
+2025-04-01,Equity,Equity,49430000.0
+2025-05-01,Cash,Assets,20889400.0
+2025-05-01,Receivables,Assets,26253000.0
+2025-05-01,Inventory,Assets,8406000.0
+2025-05-01,Fixed Assets,Assets,20000000.0
+2025-05-01,Payables,Liabilities,9575400.0
+2025-05-01,Bank Loan,Liabilities,15000000.0
+2025-05-01,Equity,Equity,50973000.0
+2025-06-01,Cash,Assets,21815200.0
+2025-06-01,Receivables,Assets,26223000.0
+2025-06-01,Inventory,Assets,8828000.0
+2025-06-01,Fixed Assets,Assets,20000000.0
+2025-06-01,Payables,Liabilities,9883200.0
+2025-06-01,Bank Loan,Liabilities,15000000.0
+2025-06-01,Equity,Equity,51983000.0
+2025-07-01,Cash,Assets,23262100.0
+2025-07-01,Receivables,Assets,26005500.0
+2025-07-01,Inventory,Assets,8526000.0
+2025-07-01,Fixed Assets,Assets,20000000.0
+2025-07-01,Payables,Liabilities,9789600.0
+2025-07-01,Bank Loan,Liabilities,15000000.0
+2025-07-01,Equity,Equity,53004000.0
+2025-08-01,Cash,Assets,23885700.0
+2025-08-01,Receivables,Assets,27067500.0
+2025-08-01,Inventory,Assets,8571000.0
+2025-08-01,Fixed Assets,Assets,20000000.0
+2025-08-01,Payables,Liabilities,9787200.0
+2025-08-01,Bank Loan,Liabilities,15000000.0
+2025-08-01,Equity,Equity,54737000.0
+2025-09-01,Cash,Assets,25498400.0
+2025-09-01,Receivables,Assets,27195000.0
+2025-09-01,Inventory,Assets,8686000.0
+2025-09-01,Fixed Assets,Assets,20000000.0
+2025-09-01,Payables,Liabilities,9731400.0
+2025-09-01,Bank Loan,Liabilities,15000000.0
+2025-09-01,Equity,Equity,56648000.0
+2025-10-01,Cash,Assets,26866500.0
+2025-10-01,Receivables,Assets,27586500.0
+2025-10-01,Inventory,Assets,8886000.0
+2025-10-01,Fixed Assets,Assets,20000000.0
+2025-10-01,Payables,Liabilities,10050000.0
+2025-10-01,Bank Loan,Liabilities,15000000.0
+2025-10-01,Equity,Equity,58289000.0
+2025-11-01,Cash,Assets,28118200.0
+2025-11-01,Receivables,Assets,27528000.0
+2025-11-01,Inventory,Assets,9178000.0
+2025-11-01,Fixed Assets,Assets,20000000.0
+2025-11-01,Payables,Liabilities,10225200.0
+2025-11-01,Bank Loan,Liabilities,15000000.0
+2025-11-01,Equity,Equity,59599000.0
+2025-12-01,Cash,Assets,29570600.0
+2025-12-01,Receivables,Assets,27603000.0
+2025-12-01,Inventory,Assets,8959000.0
+2025-12-01,Fixed Assets,Assets,20000000.0
+2025-12-01,Payables,Liabilities,10302600.0
+2025-12-01,Bank Loan,Liabilities,15000000.0
+2025-12-01,Equity,Equity,60830000.0
+2026-01-01,Cash,Assets,30473100.0
+2026-01-01,Receivables,Assets,28348500.0
+2026-01-01,Inventory,Assets,9087000.0
+2026-01-01,Fixed Assets,Assets,20000000.0
+2026-01-01,Payables,Liabilities,10230600.0
+2026-01-01,Bank Loan,Liabilities,15000000.0
+2026-01-01,Equity,Equity,62678000.0
+2026-02-01,Cash,Assets,31825600.0
+2026-02-01,Receivables,Assets,28512000.0
+2026-02-01,Inventory,Assets,9264000.0
+2026-02-01,Fixed Assets,Assets,20000000.0
+2026-02-01,Payables,Liabilities,10626600.0
+2026-02-01,Bank Loan,Liabilities,15000000.0
+2026-02-01,Equity,Equity,63975000.0
+2026-03-01,Cash,Assets,32322200.0
+2026-03-01,Receivables,Assets,29556000.0
+2026-03-01,Inventory,Assets,9624000.0
+2026-03-01,Fixed Assets,Assets,20000000.0
+2026-03-01,Payables,Liabilities,10765200.0
+2026-03-01,Bank Loan,Liabilities,15000000.0
+2026-03-01,Equity,Equity,65737000.0
+2026-04-01,Cash,Assets,33958900.0
+2026-04-01,Receivables,Assets,30301500.0
+2026-04-01,Inventory,Assets,9512000.0
+2026-04-01,Fixed Assets,Assets,20000000.0
+2026-04-01,Payables,Liabilities,10748400.0
+2026-04-01,Bank Loan,Liabilities,15000000.0
+2026-04-01,Equity,Equity,68024000.0
+2026-05-01,Cash,Assets,36752900.0
+2026-05-01,Receivables,Assets,29314500.0
+2026-05-01,Inventory,Assets,9434000.0
+2026-05-01,Fixed Assets,Assets,20000000.0
+2026-05-01,Payables,Liabilities,10598400.0
+2026-05-01,Bank Loan,Liabilities,15000000.0
+2026-05-01,Equity,Equity,69903000.0
+2026-06-01,Cash,Assets,37948700.0
+2026-06-01,Receivables,Assets,29227500.0
+2026-06-01,Inventory,Assets,9767000.0
+2026-06-01,Fixed Assets,Assets,20000000.0
+2026-06-01,Payables,Liabilities,11167200.0
+2026-06-01,Bank Loan,Liabilities,15000000.0
+2026-06-01,Equity,Equity,70776000.0
+2026-07-01,Cash,Assets,39070700.0
+2026-07-01,Receivables,Assets,28627500.0
+2026-07-01,Inventory,Assets,9836000.0
+2026-07-01,Fixed Assets,Assets,20000000.0
+2026-07-01,Payables,Liabilities,10990200.0
+2026-07-01,Bank Loan,Liabilities,15000000.0
+2026-07-01,Equity,Equity,71544000.0
+2026-08-01,Cash,Assets,38838600.0
+2026-08-01,Receivables,Assets,29478000.0
+2026-08-01,Inventory,Assets,10085000.0
+2026-08-01,Fixed Assets,Assets,20000000.0
+2026-08-01,Payables,Liabilities,11691600.0
+2026-08-01,Bank Loan,Liabilities,15000000.0
+2026-08-01,Equity,Equity,71710000.0
+2026-09-01,Cash,Assets,39748900.0
+2026-09-01,Receivables,Assets,28792500.0
+2026-09-01,Inventory,Assets,9706000.0
+2026-09-01,Fixed Assets,Assets,20000000.0
+2026-09-01,Payables,Liabilities,11486400.0
+2026-09-01,Bank Loan,Liabilities,15000000.0
+2026-09-01,Equity,Equity,71761000.0
+2026-10-01,Cash,Assets,39217400.0
+2026-10-01,Receivables,Assets,29367000.0
+2026-10-01,Inventory,Assets,9951000.0
+2026-10-01,Fixed Assets,Assets,20000000.0
+2026-10-01,Payables,Liabilities,11705400.0
+2026-10-01,Bank Loan,Liabilities,15000000.0
+2026-10-01,Equity,Equity,71830000.0

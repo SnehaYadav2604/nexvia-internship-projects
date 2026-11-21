@@ -1,0 +1,11 @@
+German Credit scorecard (1000 applicants, 70/30 train/test split)
+Selected features (IV >= 0.05): checking_status, credit_history, purpose, duration, savings_status, credit_amount, property_magnitude, age, housing, employment, other_parties, other_payment_plans
+AUC train: 0.835 | AUC test: 0.762 | KS test: 0.448
+Scaling: 600 points at 50:1 good:bad odds, 20 points to double the odds
+
+risk_band  applicants  bad_rate_pct  avg_score  min_score  max_score
+        A         200           4.5      583.0      562.0      631.0
+        B         200          11.5      549.0      535.0      562.0
+        C         200          19.5      522.0      510.0      535.0
+        D         200          49.0      497.0      483.0      509.0
+        E         200          65.5      461.0      413.0      483.0
