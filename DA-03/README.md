@@ -74,3 +74,10 @@ Forecast accuracy (last 14 days held out, 100 store-product series):
 ## Limitations
 The data is simulated, as the assignment allows. Anomaly and forecast tables are rebuilt on every run. The demo runs locally, with no cloud deployment. The dashboard what-if table is fixed at a 7-day delay, with the other delays covered by the line chart and the SQL view.
 
+## Screenshots
+![Dashboard, top](screenshots/dashboard_top.png)
+![Dashboard, middle](screenshots/dashboard_middle.png)
+![Dashboard, bottom: what-if table](screenshots/dashboard_bottom.png)
+![Slack alert](screenshots/slack_alert.png)
+![Airflow run](screenshots/airflow_run.png)
+
